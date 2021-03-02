@@ -1,0 +1,10 @@
+{
+    "name": "minh_khang/foobar",
+    "authors": [
+        {
+            "name": "Minh Khang",
+            "email": "minh_khang@lampart-vn.com"
+        }
+    ],
+    "require": {}
+}
